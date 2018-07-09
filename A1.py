@@ -61,14 +61,3 @@ while shall_I_continue:
     elif user_input==10:
         shall_I_continue=0
 
-
-
-
-
-
-
-
-
-
-
-
